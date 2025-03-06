@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7af9194bb20a20547a44177e6b43044d, type: 3}
+  m_Name: PawnSettings
+  m_EditorClassIdentifier: 
+  blockPrefab: {fileID: 5395723291524879474, guid: ec88843dcecefe24293e8266a635957e,
+    type: 3}
+  pawnPrefab: {fileID: 2362391396223375193, guid: 2c0325599477842329501387d1984e5b,
+    type: 3}
+  linePrefab: {fileID: 4336226586502274305, guid: 420c2c05334029a4ca382ba70e861ec0,
+    type: 3}
+  initialZoneRadius: 10
+  initialPawnCount: 6
+  activeConnectorMaterial: {fileID: 2100000, guid: 27c0a93bfcbcf4070978f6b70d2766ce,
+    type: 2}
+  deleteMaterial: {fileID: 2100000, guid: 854bcfe2fa381404e981b4cafde1e4df, type: 2}
+  defaultMaterial: {fileID: 2100000, guid: 7c43818076f5b4867ad517424bd0d68a, type: 2}
+  checkerboardSize: {x: 9, y: 9}
+  blackCellColor: {r: 0, g: 0, b: 0, a: 1}
+  whiteCellColor: {r: 1, g: 1, b: 1, a: 1}
