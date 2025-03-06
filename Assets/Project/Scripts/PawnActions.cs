@@ -1,3 +1,4 @@
+using Pawns.Views;
 using System;
 
 public class PawnActions 

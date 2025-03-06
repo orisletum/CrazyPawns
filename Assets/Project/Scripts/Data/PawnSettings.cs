@@ -1,5 +1,4 @@
-using System.Collections;
-using System.Collections.Generic;
+using Pawns.Views;
 using UnityEngine;
 [CreateAssetMenu(menuName = "Game/PawnSettings", fileName = "PawnSettings")]
 public class PawnSettings : ScriptableObject

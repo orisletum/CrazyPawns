@@ -1,6 +1,6 @@
 using Cysharp.Threading.Tasks;
-using System.Collections;
-using System.Collections.Generic;
+using Pawns.Services;
+using Pawns.Views;
 using UnityEngine;
 using Zenject;
 
